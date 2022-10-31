@@ -1,0 +1,6 @@
+{"dd":{"env":"prod","service":"tracethis2!","span_id":"7903169139196686556","trace_id":"8711672257634547596","version":"2.0"},"level":"info","message":"We just received a hit to the homepage."}
+{"dd":{"env":"prod","service":"tracethis2!","span_id":"8757840210781797178","trace_id":"2444016601578507654","version":"2.0"},"level":"info","message":"The logger is working!"}
+{"dd":{"env":"prod","service":"tracethis2!","span_id":"6715494787509546812","trace_id":"7795630595890024448","version":"2.0"},"level":"info","message":"The logger is working!"}
+{"dd":{"env":"prod","service":"tracethis2!","span_id":"7233308563415961835","trace_id":"7557609164671451358","version":"2.0"},"level":"info","message":"The logger is working!"}
+{"dd":{"env":"prod","service":"tracethis2!","span_id":"1616588815172355004","trace_id":"6563607274272397783","version":"2.0"},"level":"info","message":"The logger is working!"}
+{"dd":{"env":"prod","service":"tracethis2!","span_id":"6975689526274865871","trace_id":"3893590796148755735","version":"2.0"},"level":"info","message":"The logger is working!"}
