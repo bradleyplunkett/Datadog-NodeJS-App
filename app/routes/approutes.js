@@ -28,11 +28,11 @@ app.get("/", (req, res) => {
     const span = tracer.scope().active()
     if (span !== null) {
     //   span.setTag('friends', req.params.friend);
-      span.setTag('uniqueTRACEID', req.headers.x-ddtrace-parent_trace_id)
+      span.setTag('friend', req.params.friend)
 
     }
     console.log(span);
-    res.send("Brad is glad to call you a friend!");
+    res.send("Brad is glad to call you a friend, " + req.params.friend.toUpperCase() +"!");
   });
   
   
